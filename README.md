@@ -44,7 +44,7 @@ Use VS Code Live Server.
 Add your Netlify link here.
 
 Example:
-https://jobtracker.netlify.app
+https://effulgent-daffodil-f9a9ee.netlify.app/
 
 ## GitHub Repository
 
